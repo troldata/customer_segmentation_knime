@@ -13,7 +13,7 @@ Divide all customers into groups to understand the category of main buyers and d
 ## Execution
 
 1. Download files Test.csv and Train.csv from sourse [Customer Segmentation](https://www.kaggle.com/datasets/vetrirah/customer).
-2. Open workflow Customer.knwf with KNIME Analytics Platform
-3. Correct the file paths. The file paths should be replaced with actual data.
+2. Open workflow Customers.knwf with KNIME Analytics Platform
+3. Correct the file paths in CSV Reader and CSV Writer nodes. The file paths should be replaced with actual data.
 4. Execute all nodes.
 
